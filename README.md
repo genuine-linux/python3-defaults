@@ -1,1 +1,3 @@
-# python3-defaults
+# python3-default
+
+Extra files for **Python3** package.
